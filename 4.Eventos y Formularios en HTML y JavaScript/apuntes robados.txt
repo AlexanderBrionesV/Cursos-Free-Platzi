@@ -1,0 +1,11 @@
+Apuntes en Clase:
+
+Ctrl+Shift+I => Abre la ventana inspect (inspeccionar).
+onLoad => Evento de carga del navegador.
+Javascript agrega una serie de propiedades a cada tecla, con el fin de poder identificar y facilitar su manejo en caso necesario.
+En programación normalmente es mas cómodo trabajar con números debido a que ocupan menos espacio en memoria que las letras, aunque hoy en día esto ya no es problema por el avance de la tecnología, se sigue aplicando el mismo concepto.
+El keyCode de cada tecla no varía independientemente de que sea mayúscula o minúscula
+Objeto Literal => Lo constituye una variable que está compuesta internamente por una colección de variables, generalmente de valor constante. Una colección de variables se representa similar a un bloque de código.
+JSON => Javascript Object Model
+Proto => Es la manera en que el navegador estructura las información del objeto.
+SWITCH => Es una estructura de control generalmente utilizada para evitar el uso excesivo de IF anidados, haciendo de este modo un código más limpio y fácil de leer, se debe también evaluar su utilización ante cada situación para evitar su uso excesivo.
